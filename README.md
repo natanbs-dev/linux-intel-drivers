@@ -18,8 +18,9 @@ sudo dnf install intel-media-driver libva-intel-driver
 sudo dnf install vainfo
 ```
 # Verifique o driver em uso
+```bash
 vainfo
-
+```
 Habilitar repositórios adicionais (opcional, para pacotes mais recentes):
 
 # Habilitar o repositório RPM Fusion
