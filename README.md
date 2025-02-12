@@ -32,4 +32,3 @@ sudo dnf install https://download1.rpmfusion.org/free/fedora/rpmfusion-free-rele
 sudo dnf update
 ```
 =======
->>>>>>> main
