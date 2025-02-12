@@ -1,6 +1,4 @@
-# linux-intel-drivers
-
-<<<<<<< fedora
+# fedora-intel-drivers
 
 No Fedora, os drivers Intel mais recentes estão disponíveis nos repositórios oficiais e no RPM Fusion. Siga os passos abaixo:
 Instalar drivers Intel para aceleração de vídeo e codecs de mídia:
