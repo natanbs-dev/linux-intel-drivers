@@ -1,5 +1,3 @@
-# linux-intel-drivers
-
 ## arch/manjaro
 
 No Arch Linux, os drivers Intel mais recentes estão disponíveis nos repositórios oficiais e no AUR. Siga os passos abaixo:
@@ -15,7 +13,7 @@ sudo pacman -Syu
 sudo pacman -S intel-media-driver libva-utils
 ```
 # Verifique o driver em uso
-```bash 
+```bash
 vainfo
 ```
 Usar o AUR para drivers mais recentes (opcional):
@@ -47,3 +45,5 @@ libva info: va_openDriver() returns 0
 vainfo: VA-API version: 1.15 (libva 2.15.0)
 vainfo: Driver version: Intel iHD driver for Intel(R) Gen Graphics - 22.6.4
 ...
+
+
