@@ -15,5 +15,5 @@ Agora, você pode rodar o script com:
 Se precisar de permissões administrativas, use:
 
 ```bash 
-sudo ./instalar_drivers_intel.sh
+sudo ./instalar_drivers_ubuntu.sh
 ```
