@@ -9,6 +9,7 @@ Este repositório contém scripts e instruções para a instalação e configura
 - **Ubuntu**
 - **Manjaro**
 - **Arch Linux**
+- **Debian**
 - **Fedora**
 
 ## 📋 Pré-requisitos
