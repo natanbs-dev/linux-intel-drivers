@@ -75,9 +75,4 @@ Contribuições são bem-vindas! Se você tem melhorias ou correções para os s
 
 Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-## 🙏 Agradecimentos
-
-- À comunidade Linux por fornecer suporte e documentação.
-- Aos contribuidores que ajudaram a melhorar este repositório.
-
 ```
