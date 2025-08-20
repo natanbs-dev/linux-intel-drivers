@@ -12,7 +12,7 @@ Este repositório contém scripts e instruções para a instalação e configura
 - **Debian**
 - **Fedora**
 
-## 📋 Pré-requisitos
+## Requisitos
 
 Antes de prosseguir, certifique-se de que:
 
@@ -20,7 +20,7 @@ Antes de prosseguir, certifique-se de que:
 - Sua distribuição Linux está atualizada.
 - Você possui uma conexão com a internet estável.
 
-## 🚀 Como Usar
+## Como Usar
 
 ### 1. Clone o Repositório
 
@@ -55,13 +55,13 @@ chmod +x /scripts/fedora-drivers.sh
 sudo ./scripts/fedora-drivers.sh
 ```
 
-## 📂 Estrutura do Repositório
+## Estrutura do Repositório
 
 - `scripts`: Scripts para instalação de drivers em cada distribuição
 - `conteudo_estudo`: Contém o andamento do processo e anotações para escolha de determinados scripts
 - `README.md`: Este arquivo, com instruções de uso.
 
-## 🤝 Contribuindo
+## Contribuindo
 
 Contribuições são bem-vindas! Se você tem melhorias ou correções para os scripts, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
